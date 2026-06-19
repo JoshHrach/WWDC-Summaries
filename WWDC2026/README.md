@@ -1,4 +1,4 @@
-# WWDC26 Session Summaries
+# WWDC2026 Session Summaries
 
 Detailed summaries of **115** WWDC26 developer session videos, organized by topic. Each file covers an overview, key topics, an exhaustive list of APIs & frameworks (new APIs flagged **[NEW]**), code highlights, and takeaways. Built from each session's abstract, Apple's official chapter summaries, code samples, and linked documentation.
 
